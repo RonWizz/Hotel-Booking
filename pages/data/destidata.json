@@ -1,0 +1,77 @@
+[
+    {
+    "id": 1,
+    "created_at": 1713327101000,
+    "Name": "San Diego",
+    "Slug": "sandiego",
+    "Collection_ID": "661d3ed585bea54cf607c272",
+    "Locale_ID": "661d3ed4a4040cb28a3a02ca",
+    "Item_ID": "661f42b349294427fbe06490",
+    "Created_On": "Wed Apr 17 2024 03:32:03 GMT+0000 (Coordinated Universal Time)",
+    "Updated_On": "Wed Apr 17 2024 03:32:03 GMT+0000 (Coordinated Universal Time)",
+    "Image": "https://uploads-ssl.webflow.com/661d3ed4a4040cb28a3a02cb/661f42b349294427fbe063d8_64dfda8fc99427c2cc9a8fbb_pexels-lucas-fonseca-2157685-min%25201.png",
+    "Button_Link": "http://hotel-website-002e29.webflow.io/booking-site/san-diego",
+    "Paragraph": "Praesentium laudantium aperiam corrupti labore maiores harum officia et. Qui neque aut dignissimos qui. Ride the trolley and stroll the Little Italy neighborhood, discover the eclectic Gaslamp Quarter, and take in a San Diego Padres baseball game."
+
+    },
+    {
+        "id": 2,
+        "created_at": 1713327101000,
+        "Name": "Miami",
+        "Slug": "miami",
+        "Collection_ID": "661d3ed585bea54cf607c272",
+        "Locale_ID": "661d3ed4a4040cb28a3a02ca",
+        "Item_ID": "661f42b349294427fbe064bc",
+        "Created_On": "Wed Apr 17 2024 03:32:03 GMT+0000 (Coordinated Universal Time)",
+        "Updated_On": "Wed Apr 17 2024 03:32:03 GMT+0000 (Coordinated Universal Time)",
+        "Image": "https://uploads-ssl.webflow.com/661d3ed4a4040cb28a3a02cb/661f42b349294427fbe06409_64dfb9c1642ce5e745daedb8_pexels-brendon-spring-8574714.jpeg",
+        "Button_Link": "http://hotel-website-002e29.webflow.io/booking-site/miami",
+        "Paragraph": "Similique error est consectetur sunt temporibus. Blanditiis eos unde. Libero doloribus magnam. Optio amet adipisci ut nihil aut."
+
+    },
+    {
+        "id": 3,
+        "created_at": 1713327101000,
+        "Name": "San Francisco",
+        "Slug": "san-francisco",
+        "Collection_ID": "661d3ed585bea54cf607c272",
+        "Locale_ID": "661d3ed4a4040cb28a3a02ca",
+        "Item_ID": "661f42b377833168b67a5fd2",
+        "Created_On": "Wed Apr 17 2024 03:32:03 GMT+0000 (Coordinated Universal Time)",
+        "Updated_On": "Wed Apr 17 2024 03:32:03 GMT+0000 (Coordinated Universal Time)",
+        "Image": "https://uploads-ssl.webflow.com/661d3ed4a4040cb28a3a02cb/661f42b277833168b67a5fbc_64dfd67a0838e40e67846800_pexels-pixabay-220765.jpeg",
+        "Button_Link": "http://hotel-website-002e29.webflow.io/booking-site/san-francisco",
+        "Paragraph": "Ratione sunt sit pariatur est. In voluptatem non similique enim est omnis."
+  
+    },
+    {
+        "id": 4,
+        "created_at": 1713327101000,
+        "Name": "Orlando",
+        "Slug": "orlando",
+        "Collection_ID": "661d3ed585bea54cf607c272",
+        "Locale_ID": "661d3ed4a4040cb28a3a02ca",
+        "Item_ID": "661f42b376491a691d8ee659",
+        "Created_On": "Wed Apr 17 2024 03:32:03 GMT+0000 (Coordinated Universal Time)",
+        "Updated_On": "Wed Apr 17 2024 03:32:03 GMT+0000 (Coordinated Universal Time)",
+        "Image": "https://uploads-ssl.webflow.com/661d3ed4a4040cb28a3a02cb/661f42b276491a691d8ee63f_64dfd3eb700386a0a9ac1f65_pexels-craig-adderley-3411132%25201-min.png",
+        "Button_Link": "http://hotel-website-002e29.webflow.io/booking-site/orlando",
+        "Paragraph": "Impedit illo tempora ipsum et. Necessitatibus adipisci accusantium ut deserunt exercitationem. Tenetur qui quo reiciendis qui saepe ut corr"
+
+    },
+    {
+        "id": 5,
+        "created_at": 1713327101000,
+        "Name": "Dubai",
+        "Slug": "dubai",
+        "Collection_ID": "661d3ed585bea54cf607c272",
+        "Locale_ID": "661d3ed4a4040cb28a3a02ca",
+        "Item_ID": "661f42b24c8721b8d4510699",
+        "Created_On": "Wed Apr 17 2024 03:32:02 GMT+0000 (Coordinated Universal Time)",
+        "Updated_On": "Wed Apr 17 2024 03:32:02 GMT+0000 (Coordinated Universal Time)",
+        "Image": "https://uploads-ssl.webflow.com/661d3ed4a4040cb28a3a02cb/661f42b24c8721b8d451068e_64deeec4c00fcf95a5154220_pexels-nextvoyage-1467300-min.jpeg",
+        "Button_Link": "http://hotel-website-002e29.webflow.io/booking-site/dubai-trip",
+        "Paragraph": "Dubai is located on the eastern coast of the Arabian Peninsula in the southwest corner of the Arabian Gulf. Dubai is the second largest emirate in the United Arab Emirates (UAE) sharing borders with Abu Dhabi in the south, Sharjah in the northeast, and the Sultanate of Oman in the southeast."
+
+    }
+]   

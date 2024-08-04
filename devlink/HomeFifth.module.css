@@ -1,0 +1,144 @@
+.div-block-13 {
+  background-color: hsla(0, 0.00%, 91.37%, 1.00);
+}
+
+.cont {
+  display: block;
+  max-width: 1600px;
+  min-height: 510px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  justify-content: space-around;
+
+  background-color: transparent;
+
+  text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+  .cont {
+    min-height: 420px;
+    margin-top: 60px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .cont {
+    min-height: 200px;
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+}
+
+.cont.search-bar {
+  display: flex;
+  width: 70%;
+  min-height: 0px;
+  padding: 10px 20px;
+  justify-content: space-around;
+  align-items: stretch;
+
+  border-radius: 7px;
+
+  background-color: hsla(0, 0.00%, 100.00%, 1.00);
+}
+
+@media screen and (max-width: 767px) {
+  .cont.search-bar {
+    min-height: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cont.search-bar.mobclass {
+    margin-top: -233px;
+  }
+}
+
+.heading-4 {
+  color: hsla(0, 0.00%, 0.00%, 1.00);
+}
+
+@media screen and (max-width: 767px) {
+  .heading-4 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .heading-4 {
+    font-size: 22px;
+  }
+}
+
+.paragraph-7 {
+  margin-top: 60px;
+  margin-right: 100px;
+  margin-left: 100px;
+  color: hsla(0, 0.00%, 0.00%, 1.00);
+  font-size: 16px;
+}
+
+@media screen and (max-width: 767px) {
+  .paragraph-7 {
+    margin-top: 20px;
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .paragraph-7 {
+    width: 200px;
+    margin-left: 60px;
+    font-size: 10px;
+    line-height: 15px;
+  }
+}
+
+.columns {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.image-12 {
+  border-radius: 7px;
+}
+
+@media screen and (max-width: 767px) {
+  .image-12 {
+    padding-bottom: 20px;
+  }
+}
+
+.image-13 {
+  border-radius: 7px;
+}
+
+@media screen and (max-width: 767px) {
+  .image-13 {
+    padding-bottom: 20px;
+  }
+}
+
+.image-14 {
+  border-radius: 7px;
+}
+
+@media screen and (max-width: 767px) {
+  .image-14 {
+    padding-bottom: 20px;
+  }
+}
+
+.image-15 {
+  border-radius: 7px;
+}
+
+@media screen and (max-width: 767px) {
+  .image-15 {
+    padding-bottom: 20px;
+  }
+}

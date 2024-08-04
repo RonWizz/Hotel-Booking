@@ -1,0 +1,244 @@
+.div-block-32 {
+  height: 650px;
+  background-image: url("https://uploads-ssl.webflow.com/64db145c0d43070d1977b449/64e0b6eeb931a8080b8f7e77_pexels-monstera-7412074%201-min.png");
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 767px) {
+  .div-block-32 {
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .div-block-32 {
+    height: 450px;
+  }
+}
+
+.navbar {
+  margin-right: 40px;
+  margin-left: 40px;
+  background-color: transparent;
+  color: var(--white-4f231e50);
+}
+
+.container-2 {
+  max-width: 1160px;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 479px) {
+  .image-17 {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .image-17.logo {
+    width: 50px;
+    height: 50px;
+  }
+}
+
+.logo {
+  width: 160px;
+  margin-bottom: 24px;
+}
+
+.image-17.logo.mob-logo {
+  width: 70px;
+}
+
+@media screen and (max-width: 479px) {
+  .image-17.logo.mob-logo {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+.nav-menu {
+  padding-top: 20px;
+  color: hsla(0, 0.00%, 100.00%, 1.00);
+}
+
+@media screen and (max-width: 991px) {
+  .nav-menu {
+    padding: 36px 36px 20px;
+    background-color: hsla(43.24022346368716, 72.41%, 27.84%, 1.00);
+    text-align: left;
+  }
+}
+
+.nav-link-2 {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  transition: opacity 100ms ease;
+  color: hsla(0, 0.00%, 100.00%, 1.00);
+}
+
+.nav-link-2:hover {
+  color: hsla(0, 2.16%, 57.75%, 1.00);
+}
+
+.nav-link-2.btn {
+  border-radius: 9px;
+  background-color: hsla(0, 0.00%, 100.00%, 0.60);
+}
+
+.nav-link-2.btn:hover {
+  color: var(--black-8ff9ee9d);
+}
+
+@media screen and (max-width: 991px) {
+  .nav-link-2.btn {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: left;
+  }
+}
+
+.nav-link-2.btn.color:hover {
+  background-color: hsla(43.24022346368716, 76.17%, 53.92%, 1.00);
+}
+
+.nav-link-2.btn {
+  border-radius: 9px;
+  background-color: hsla(0, 0.00%, 100.00%, 0.60);
+}
+
+.nav-link-2.btn:hover {
+  background-color: hsla(273.70786516853934, 90.82%, 61.57%, 0.85);
+  color: hsla(0, 0.00%, 0.00%, 1.00);
+}
+
+@media screen and (max-width: 991px) {
+  .nav-link-2.btn {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: left;
+  }
+}
+
+.nav-link-2.btn {
+  border-radius: 9px;
+  background-color: hsla(0, 0.00%, 100.00%, 0.60);
+}
+
+.nav-link-2.btn:hover {
+  color: black;
+}
+
+@media screen and (max-width: 991px) {
+  .nav-link-2.btn {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: left;
+  }
+}
+
+.nav-link-2.btn.color:hover {
+  background-color: hsla(43.24022346368716, 76.17%, 53.92%, 1.00);
+}
+
+@media screen and (max-width: 991px) {
+  .menu-button {
+    background-color: transparent;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .menu-button:global(.w--open) {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background-color: hsla(43.529411764705884, 71.83%, 27.84%, 1.00);
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .icon {
+    color: hsla(0, 0.00%, 100.00%, 1.00);
+  }
+}
+
+.div-block-35 {
+  max-width: 1160px;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+@media screen and (max-width: 991px) {
+  .div-block-35 {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .div-block-35 {
+    margin-top: 40px;
+  }
+}
+
+.div-block-34 {
+  max-width: 500px;
+  text-align: left;
+}
+
+.heading-31 {
+  color: var(--white-4f231e50);
+  font-size: 60px;
+  line-height: 70px;
+}
+
+@media screen and (max-width: 479px) {
+  .heading-31 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .heading-31.tab-heading {
+    font-size: 50px;
+    line-height: 60px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .heading-31.tab-heading {
+    font-size: 40px;
+    line-height: 45px;
+  }
+}
+
+.paragraph-24 {
+  margin-top: 40px;
+  color: var(--white-4f231e50);
+  font-size: 18px;
+  line-height: 25px;
+}
+
+@media screen and (max-width: 767px) {
+  .paragraph-24 {
+    margin-top: 20px;
+    font-size: 15px;
+    line-height: 20px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .paragraph-24 {
+    margin-top: 20px;
+    font-size: 12px;
+    line-height: 16px;
+  }
+}

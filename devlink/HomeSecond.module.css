@@ -1,0 +1,51 @@
+.section {
+  max-width: 1160px;
+  min-height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 60px;
+  padding-left: 60px;
+
+  background-color: hsla(43.24022346368716, 0.00%, 100.00%, 1.00);
+
+  text-align: center;
+}
+
+.section.bg {
+  padding-top: 100px;
+  padding-bottom: 40px;
+  background-color: hsla(0, 0.00%, 86.67%, 1.00);
+}
+
+@media screen and (max-width: 767px) {
+  .section.bg {
+    padding-top: 60px;
+  }
+}
+
+.div-block-2 {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.image {
+  text-align: left;
+}
+
+.paragraph-3 {
+  padding-top: 20px;
+  color: hsla(0, 0.00%, 0.00%, 1.00);
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.image-2 {
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 991px) {
+  .image-2 {
+    margin-top: 10px;
+  }
+}
