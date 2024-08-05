@@ -7,7 +7,6 @@ import * as _utils from "../devlink/utils";
 import _styles from "../devlink/BookCms2nd.module.css";
 import checkout from "./data/checkout.json"
 import { loadStripe } from '@stripe/stripe-js';
-import './YourStyles.css'; // Import your CSS file
 
 const stripePromise = loadStripe('process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY');
 const destiIdData = {};
@@ -401,7 +400,7 @@ export default function BookCms2nd({ as: _Component = _Builtin.Block }) {
                 </_Builtin.Block>
                 <div>
                   {showNotification && (
-                    <div className="notification">
+                    <div className={_utils.cx(_styles,"notification")}>
                       Payment handler is not been set
                     </div>
                   )}
