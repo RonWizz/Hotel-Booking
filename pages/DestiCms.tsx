@@ -1,7 +1,7 @@
 import React from 'react';
-import * as _Builtin from "../../../devlink/_Builtin";
-import * as _utils from "../../../devlink/utils";
-import _styles from "../../../devlink/DestiCms3St.module.css";
+import * as _Builtin from "../devlink/_Builtin";
+import * as _utils from "../devlink/utils";
+import _styles from "../devlink/DestiCms3St.module.css";
 import { useRouter } from 'next/router';
 import destiId from './data/destiId.json';
 interface DestiCms3StProps {
@@ -39,9 +39,6 @@ const DestiCms3St: React.FC<DestiCms3StProps> = ({ children }) => {
         <_Builtin.Link
         className={_utils.cx(_styles, "button_component")}
         button={false}
-        dyn={{
-            bind: {},
-        }}
         block="inline"
         options={{
             href: "",

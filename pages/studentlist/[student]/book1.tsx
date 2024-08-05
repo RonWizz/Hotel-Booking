@@ -9,7 +9,7 @@ import * as _utils from "../../../devlink/utils";
 import _styles from "../../../devlink/BookCms1st.module.css";
 import checkout from "../../data/checkout.json";
 import { Footer } from '@/devlink';
-import { BookCms2nd } from '../../BookCms2nd';
+import BookCms2nd  from '../../BookCms2nd';
 interface DestiItem {
   id: string;
   Heading: string;

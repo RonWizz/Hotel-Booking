@@ -1,4 +1,4 @@
-import { CartProvider } from "@/pages/CartContext";
+
 import "@/devlink/global.css";
 import { DevLinkProvider } from "@/devlink/DevLinkProvider";
 import type { Metadata } from "next";
@@ -19,9 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <DevLinkProvider>
-          <CartProvider>
           {children}
-          </CartProvider>
         </DevLinkProvider>
       </body>
     </html>

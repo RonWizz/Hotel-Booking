@@ -6,7 +6,7 @@ import { useContext } from 'react';
 import _styles from "./HomePage.module.css";
 import _interactions from "./interactions";
 import { UserContext } from '../contexts/user.context';
-import { signOutUser } from '../pages/utils/firebase/firebase.utils';
+import { signOutUser } from '../utils/firebase/firebase.utils';
 
 
 const _interactionsData = JSON.parse(
