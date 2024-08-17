@@ -34,7 +34,7 @@ export function DestinationCollection ({ as: _Component = _Builtin.Block })  {
             <Link href={`/studentlist/${destination.id}`} className="link-block w-inline-block">
             <div className="div-block-41 div-41">
               <div className="flex div-block-44">
-                <div className="div-block-43">
+                <div className="div-block-36">
                 <h1 className="heading-42">{destination.Name}</h1>
                 <p className="paragraph-30">{destination.Paragraph}</p>
                 <p className="slag">
